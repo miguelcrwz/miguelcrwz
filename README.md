@@ -58,6 +58,8 @@
   <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=github" height = "40" alt = "github logo" />
   <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=notion" height = "40" alt = "notion logo" />
+  <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=terraform" height = "40" alt = "terraform logo" />
   <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=kubernetes" height = "40" alt = "kubernetes logo" />
