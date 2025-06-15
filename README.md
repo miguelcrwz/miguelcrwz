@@ -4,7 +4,7 @@
   <a href = "https://git.io/typing-svg"> <img src = "https://readme-typing-svg.herokuapp.com?font=Anek+Devanagari&weight=600&size=35&pause=1000&color=6FA3FA&center=true&vCenter=true&width=435&separator=%3C&lines=Hi%2C+I'm+Miguel!+%3A)%3CBack-End+Developer%3CI'm+19+years+old!%3CWelcome!+;)" /> </a>
 </div>
 
-<h2 align = "left"> 🧑🏻‍💻 ABOUT ME </h2>
+<h2 align = "left"> 🧑🏽‍💻 ABOUT ME </h2>
 
 ###
 
