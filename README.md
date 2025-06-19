@@ -30,7 +30,7 @@
 ###
 
 <div align = "center">
-  <img src = "https://skillicons.dev/icons?i=node" height = "40" alt = "node.js logo" />
+  <img src = "https://skillicons.dev/icons?i=nodejs" height = "40" alt = "node.js logo" />
   <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=java" height = "40" alt = "java logo" />
   <img width = "12" />
