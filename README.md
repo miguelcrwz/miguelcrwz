@@ -68,6 +68,8 @@
   <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=vscode" height = "40" alt = "visual studio code logo" />
   <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=clion" height = "40" alt = "clion logo" />
+  <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=github" height = "40" alt = "github logo" />
   <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=notion" height = "40" alt = "notion logo" />
