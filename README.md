@@ -34,6 +34,8 @@
   <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=nestjs" height = "40" alt = "nest.js logo" />
   <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=react" height = "40" alt = "react logo" />
+  <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=nextjs" height = "40" alt = "next.js logo" />
   <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=java" height = "40" alt = "java logo" />
