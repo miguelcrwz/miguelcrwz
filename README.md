@@ -42,8 +42,6 @@
   <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=spring" height = "40" alt = "spring logo" />
   <img width = "12" />
-  <img src = "https://skillicons.dev/icons?i=aws" height = "40" alt = "aws logo" />
-  <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=python" height = "40" alt = "python logo" />
   <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=flask" height = "40" alt = "flask logo" />
@@ -83,6 +81,8 @@
   <img src = "https://skillicons.dev/icons?i=notion" height = "40" alt = "notion logo" />
   <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=obsidian" height = "40" alt = "obsidian logo" />
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=aws" height = "40" alt = "aws logo" />
   <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=terraform" height = "40" alt = "terraform logo" />
   <img width = "12" />
