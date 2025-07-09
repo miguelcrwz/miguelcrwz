@@ -91,6 +91,8 @@
   <img src = "https://skillicons.dev/icons?i=docker" height = "40" alt = "docker logo" />
   <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=git" height = "40" alt = "git logo" />
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=supabase" height = "40" alt = "supabase logo" />
 </div>
 
 ###
