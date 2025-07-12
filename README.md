@@ -95,6 +95,8 @@
   <img src = "https://skillicons.dev/icons?i=supabase" height = "40" alt = "supabase logo" />
   <img width = "12" />
   <img src = "https://skillicons.dev/icons?i=postgresql" height = "40" alt = "postgreSQL logo" />
+  <img width = "12" />
+  <img src = "https://skillicons.dev/icons?i=mysql" height = "40" alt = "mySQL logo" />
 </div>
 
 ###
