@@ -44,6 +44,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=elysia" height="40" alt="elysia logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
