@@ -32,6 +32,8 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="c# logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node.js logo" />
