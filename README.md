@@ -76,6 +76,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visual studio code logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visual studio logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
