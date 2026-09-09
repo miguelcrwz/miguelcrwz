@@ -80,6 +80,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo" />
