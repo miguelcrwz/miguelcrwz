@@ -1,0 +1,2 @@
+brotli==1.2.0
+fonttools==4.66.0
